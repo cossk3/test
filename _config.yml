@@ -1,2 +1,5 @@
-include: [".well-known","aiyun.json"]
-theme: jekyll-theme-cayman
+# Include / Exclude file(s)
+## include:/exclude: options only apply to the 'source/' folder
+include: [".nojekyll"]
+exclude:
+ignore:
